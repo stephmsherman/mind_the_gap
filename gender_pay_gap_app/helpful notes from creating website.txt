@@ -1,0 +1,12 @@
+README 
+
+<div class="col-sm-6"> is where the size of the blocks is set
+-https://stackoverflow.com/questions/24175998/meaning-of-numbers-in-col-md-4-col-xs-1-col-lg-2-in-bootstrap
+
+
+#1e152f
+
+
+
+    width = figure.get('layout', {}).get('width', default_width)
+    height = figure.get('layout', {}).get('height', default_height)
